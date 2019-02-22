@@ -1,0 +1,97 @@
+C:\Users\user\Desktop\Aplikasi undangan\Aplikasi undangan\bin\Debug\Aplikasi undangan.exe
+C:\Users\user\Desktop\Aplikasi undangan\Aplikasi undangan\bin\Debug\Aplikasi undangan.pdb
+C:\Users\user\Desktop\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\Aplikasi_undangan.Pejabat.resources
+C:\Users\user\Desktop\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\Aplikasi_undangan.Reminder.resources
+C:\Users\user\Desktop\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\Aplikasi_undangan.Undangan.resources
+C:\Users\user\Desktop\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\Aplikasi_undangan.Properties.Resources.resources
+C:\Users\user\Desktop\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\Desktop\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\Desktop\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\Aplikasi undangan.exe
+C:\Users\user\Desktop\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\Aplikasi undangan.pdb
+C:\Users\user\Desktop\Aplikasi undangan\Aplikasi undangan\bin\Debug\MySql.Data.dll
+C:\Users\user\Desktop\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\Aplikasi_undangan.tampilPejabat.resources
+C:\Users\user\Desktop\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\Aplikasi_undangan.tampilUndangan.resources
+C:\Users\user\Desktop\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\Aplikasi_undangan.updatePejabat.resources
+C:\Users\user\Desktop\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\Aplikasi_undangan.updateUndangan.resources
+C:\Users\user\Desktop\Aplikasi undangan\Aplikasi undangan\bin\Debug\Aplikasi undangan.exe.config
+C:\Users\user\Desktop\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\Aplikasi_undangan.ReminderBidang.resources
+C:\Users\user\Desktop\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\RdlCompile.cache
+C:\Users\user\Desktop\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\RdlCompile.compiled
+C:\Users\user\Desktop\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\Aplikasi_undangan.Form1.resources
+C:\Users\user\Desktop\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\Aplikasi_undangan.reportUndangan.resources
+C:\Users\user\Desktop\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\Aplikasi_undangan.reportUndanganLengkap.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Aplikasi undangan\Aplikasi undangan\bin\Debug\Aplikasi undangan.exe.config
+C:\Users\user\Documents\Visual Studio 2010\Projects\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\Aplikasi undangan.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\Aplikasi undangan.pdb
+D:\Bisnis\Aplikasi undangan\Aplikasi undangan\bin\Debug\Aplikasi undangan.exe.config
+D:\Bisnis\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\Aplikasi undangan.exe
+D:\Bisnis\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\Aplikasi undangan.pdb
+D:\Bisnis\Aplikasi undangan\Aplikasi undangan\bin\Debug\Aplikasi undangan.exe
+D:\Bisnis\Aplikasi undangan\Aplikasi undangan\bin\Debug\Aplikasi undangan.pdb
+D:\Bisnis\Aplikasi undangan\Aplikasi undangan\bin\Debug\MySql.Data.dll
+D:\Bisnis\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Bisnis\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\Aplikasi_undangan.Form1.resources
+D:\Bisnis\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\Aplikasi_undangan.Login.resources
+D:\Bisnis\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\Aplikasi_undangan.Pejabat.resources
+D:\Bisnis\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\Aplikasi_undangan.Reminder.resources
+D:\Bisnis\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\Aplikasi_undangan.ReminderBidang.resources
+D:\Bisnis\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\Aplikasi_undangan.reportUndangan.resources
+D:\Bisnis\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\Aplikasi_undangan.reportUndanganLengkap.resources
+D:\Bisnis\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\Aplikasi_undangan.tampilPejabat.resources
+D:\Bisnis\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\Aplikasi_undangan.tampilUndangan.resources
+D:\Bisnis\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\Aplikasi_undangan.Undangan.resources
+D:\Bisnis\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\Aplikasi_undangan.Properties.Resources.resources
+D:\Bisnis\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\Aplikasi_undangan.updatePejabat.resources
+D:\Bisnis\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\Aplikasi_undangan.updateUndangan.resources
+D:\Bisnis\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Bisnis\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Bisnis\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\RdlCompile.cache
+D:\Bisnis\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\RdlCompile.compiled
+D:\Bisnis\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\Aplikasi_undangan.reportList.resources
+E:\CV\Portofolio Program\Aplikasi invitation reminder\Aplikasi undangan\Aplikasi undangan\bin\Debug\Aplikasi undangan.exe.config
+E:\CV\Portofolio Program\Aplikasi invitation reminder\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\Aplikasi undangan.exe
+E:\CV\Portofolio Program\Aplikasi invitation reminder\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\Aplikasi undangan.pdb
+E:\CV\Portofolio Program\Aplikasi invitation reminder\Aplikasi undangan\Aplikasi undangan\bin\Debug\Aplikasi undangan.exe
+E:\CV\Portofolio Program\Aplikasi invitation reminder\Aplikasi undangan\Aplikasi undangan\bin\Debug\Aplikasi undangan.pdb
+E:\CV\Portofolio Program\Aplikasi invitation reminder\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\Aplikasi undangan.csprojResolveAssemblyReference.cache
+E:\CV\Portofolio Program\Aplikasi invitation reminder\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\Aplikasi_undangan.Form1.resources
+E:\CV\Portofolio Program\Aplikasi invitation reminder\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\Aplikasi_undangan.Login.resources
+E:\CV\Portofolio Program\Aplikasi invitation reminder\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\Aplikasi_undangan.Pejabat.resources
+E:\CV\Portofolio Program\Aplikasi invitation reminder\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\Aplikasi_undangan.Reminder.resources
+E:\CV\Portofolio Program\Aplikasi invitation reminder\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\Aplikasi_undangan.ReminderBidang.resources
+E:\CV\Portofolio Program\Aplikasi invitation reminder\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\Aplikasi_undangan.reportList.resources
+E:\CV\Portofolio Program\Aplikasi invitation reminder\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\Aplikasi_undangan.reportUndangan.resources
+E:\CV\Portofolio Program\Aplikasi invitation reminder\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\Aplikasi_undangan.reportUndanganLengkap.resources
+E:\CV\Portofolio Program\Aplikasi invitation reminder\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\Aplikasi_undangan.tampilPejabat.resources
+E:\CV\Portofolio Program\Aplikasi invitation reminder\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\Aplikasi_undangan.tampilUndangan.resources
+E:\CV\Portofolio Program\Aplikasi invitation reminder\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\Aplikasi_undangan.Undangan.resources
+E:\CV\Portofolio Program\Aplikasi invitation reminder\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\Aplikasi_undangan.Properties.Resources.resources
+E:\CV\Portofolio Program\Aplikasi invitation reminder\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\Aplikasi_undangan.updatePejabat.resources
+E:\CV\Portofolio Program\Aplikasi invitation reminder\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\Aplikasi_undangan.updateUndangan.resources
+E:\CV\Portofolio Program\Aplikasi invitation reminder\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\Aplikasi undangan.csproj.GenerateResource.Cache
+E:\CV\Portofolio Program\Aplikasi invitation reminder\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\RdlCompile.cache
+E:\CV\Portofolio Program\Aplikasi invitation reminder\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\RdlCompile.compiled
+E:\Data Leptop\CV\Portofolio Program\Aplikasi invitation reminder\Aplikasi undangan\Aplikasi undangan\bin\Debug\Aplikasi undangan.exe.config
+E:\Data Leptop\CV\Portofolio Program\Aplikasi invitation reminder\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\Aplikasi undangan.exe
+E:\Data Leptop\CV\Portofolio Program\Aplikasi invitation reminder\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\Aplikasi undangan.pdb
+E:\Data Leptop\CV\Portofolio Program\Aplikasi invitation reminder\Aplikasi undangan\Aplikasi undangan\bin\Debug\Aplikasi undangan.exe
+E:\Data Leptop\CV\Portofolio Program\Aplikasi invitation reminder\Aplikasi undangan\Aplikasi undangan\bin\Debug\Aplikasi undangan.pdb
+E:\Data Leptop\CV\Portofolio Program\Aplikasi invitation reminder\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\Aplikasi undangan.csprojResolveAssemblyReference.cache
+E:\Data Leptop\CV\Portofolio Program\Aplikasi invitation reminder\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\Aplikasi_undangan.Form1.resources
+E:\Data Leptop\CV\Portofolio Program\Aplikasi invitation reminder\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\Aplikasi_undangan.Login.resources
+E:\Data Leptop\CV\Portofolio Program\Aplikasi invitation reminder\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\Aplikasi_undangan.Pejabat.resources
+E:\Data Leptop\CV\Portofolio Program\Aplikasi invitation reminder\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\Aplikasi_undangan.Reminder.resources
+E:\Data Leptop\CV\Portofolio Program\Aplikasi invitation reminder\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\Aplikasi_undangan.ReminderBidang.resources
+E:\Data Leptop\CV\Portofolio Program\Aplikasi invitation reminder\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\Aplikasi_undangan.reportList.resources
+E:\Data Leptop\CV\Portofolio Program\Aplikasi invitation reminder\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\Aplikasi_undangan.reportUndangan.resources
+E:\Data Leptop\CV\Portofolio Program\Aplikasi invitation reminder\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\Aplikasi_undangan.reportUndanganLengkap.resources
+E:\Data Leptop\CV\Portofolio Program\Aplikasi invitation reminder\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\Aplikasi_undangan.tampilPejabat.resources
+E:\Data Leptop\CV\Portofolio Program\Aplikasi invitation reminder\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\Aplikasi_undangan.tampilUndangan.resources
+E:\Data Leptop\CV\Portofolio Program\Aplikasi invitation reminder\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\Aplikasi_undangan.Undangan.resources
+E:\Data Leptop\CV\Portofolio Program\Aplikasi invitation reminder\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\Aplikasi_undangan.Properties.Resources.resources
+E:\Data Leptop\CV\Portofolio Program\Aplikasi invitation reminder\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\Aplikasi_undangan.updatePejabat.resources
+E:\Data Leptop\CV\Portofolio Program\Aplikasi invitation reminder\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\Aplikasi_undangan.updateUndangan.resources
+E:\Data Leptop\CV\Portofolio Program\Aplikasi invitation reminder\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\Aplikasi undangan.csproj.GenerateResource.Cache
+E:\Data Leptop\CV\Portofolio Program\Aplikasi invitation reminder\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\RdlCompile.cache
+E:\Data Leptop\CV\Portofolio Program\Aplikasi invitation reminder\Aplikasi undangan\Aplikasi undangan\obj\x86\Debug\RdlCompile.compiled
